@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2779b41c.css",
-    "main.js": "/static/js/main.93a34163.js",
+    "main.js": "/static/js/main.ca161a22.js",
     "static/media/resume.pdf": "/static/media/resume.92af0dac9471a81d777b.pdf",
     "static/media/me.png": "/static/media/me.4d8fee437c8d17434789.png",
     "static/media/happyfox.png": "/static/media/happyfox.80e4806d35872c6d0801.png",
@@ -11,10 +11,11 @@
     "static/media/database.png": "/static/media/database.24991eee32623f453b1c.png",
     "static/media/task-list.png": "/static/media/task-list.675706aa55a38e8275f3.png",
     "static/media/cypress.webp": "/static/media/cypress.bb8c9887bc48838c8d07.webp",
-    "static/media/contact.svg": "/static/media/contact.ec03def613ffe59fb4ce334fcc107c2e.svg",
+    "static/media/svg1.svg": "/static/media/svg1.16df61e18b08b2e016e9ba8640a11bf1.svg",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
-    "static/media/melogo.png": "/static/media/melogo.2b0f91133ca2c22238db.png",
+    "static/media/melogo.png": "/static/media/melogo.1dfd5a127b3bfa8ec4d7.png",
     "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/contact.svg": "/static/media/contact.f1fda465422552a202796b96ee234f5c.svg",
     "static/media/mongodb.svg": "/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/bootstrap.svg": "/static/media/bootstrap.3b8c7115a9384838c588eb5514005c8c.svg",
@@ -31,10 +32,10 @@
     "static/media/circle.svg": "/static/media/circle.c5696dbb6d79a5d69316.svg",
     "static/media/npm.svg": "/static/media/npm.87689eab730642c86d2b01f3ef4a19e3.svg",
     "main.2779b41c.css.map": "/static/css/main.2779b41c.css.map",
-    "main.93a34163.js.map": "/static/js/main.93a34163.js.map"
+    "main.ca161a22.js.map": "/static/js/main.ca161a22.js.map"
   },
   "entrypoints": [
     "static/css/main.2779b41c.css",
-    "static/js/main.93a34163.js"
+    "static/js/main.ca161a22.js"
   ]
 }
